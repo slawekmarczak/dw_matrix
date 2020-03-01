@@ -1,2 +1,2 @@
 # dw_matrix
-dataworkshop matrox course
+dataworkshop matrix course
